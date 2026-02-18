@@ -1,1 +1,0 @@
-Path: `/Users/amir/.myscripts/bin/exaddr`
