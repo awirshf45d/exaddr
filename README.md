@@ -1,4 +1,4 @@
-# Go Data Extractor
+# exaddr: Go Data Extractor
 
 A lightweight CLI tool written in Go designed to extract structured data (IP addresses and Subdomains) from unstructured, "garbage" input files.
 
