@@ -28,7 +28,7 @@ You are doing reconnaissance on a target. You visit [crt.sh](https://crt.sh) to 
 
 ## Installation
 ```bash
-go install github.com/awirshf45d/exaddr/cmd/exaddr@latest
+go install github.com/awirshf45d/exaddr/cmd/exAddr@latest
 ```
 
 ## Usage
